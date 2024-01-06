@@ -1,0 +1,9 @@
+.env*
+.dockerignore
+dist
+node_modules
+.gitignore
+Dockerfile
+*.sql
+README.md
+.vscode
